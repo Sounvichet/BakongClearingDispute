@@ -1,0 +1,23 @@
+D:\Projects\Issuelog Project\BakongClearingDispute\BakongClearingDispute\bin\Debug\BakongClearingDispute.dll
+D:\Projects\Issuelog Project\BakongClearingDispute\BakongClearingDispute\bin\Debug\BakongClearingDispute.pdb
+D:\Projects\Issuelog Project\BakongClearingDispute\BakongClearingDispute\bin\Debug\MasterReportClass.dll
+D:\Projects\Issuelog Project\BakongClearingDispute\BakongClearingDispute\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Projects\Issuelog Project\BakongClearingDispute\BakongClearingDispute\bin\Debug\MasterReportClass.pdb
+D:\Projects\Issuelog Project\BakongClearingDispute\BakongClearingDispute\bin\Debug\MasterReportClass.dll.config
+D:\Projects\Issuelog Project\BakongClearingDispute\BakongClearingDispute\obj\Debug\BakongClearingDispute.csproj.CoreCompileInputs.cache
+D:\Projects\Issuelog Project\BakongClearingDispute\BakongClearingDispute\obj\Debug\BakongClearingDispute.csproj.CopyComplete
+D:\Projects\Issuelog Project\BakongClearingDispute\BakongClearingDispute\obj\Debug\BakongClearingDispute.dll
+D:\Projects\Issuelog Project\BakongClearingDispute\BakongClearingDispute\obj\Debug\BakongClearingDispute.pdb
+D:\Projects\Issuelog Project\BakongClearingDispute\BakongClearingDispute\bin\Debug\MasterConnection.dll
+D:\Projects\Issuelog Project\BakongClearingDispute\BakongClearingDispute\bin\Debug\MasterDebugLog.dll
+D:\Projects\Issuelog Project\BakongClearingDispute\BakongClearingDispute\bin\Debug\MasterConnection.pdb
+D:\Projects\Issuelog Project\BakongClearingDispute\BakongClearingDispute\bin\Debug\MasterDebugLog.pdb
+D:\Projects\Issuelog Project\BakongClearingDispute\BakongClearingDispute\obj\Debug\BakongClearingDispute.csprojAssemblyReference.cache
+D:\Projects\Github_Master\channel-banking-bakong-csharp\bin\Debug\BakongClearingDispute.dll
+D:\Projects\Github_Master\channel-banking-bakong-csharp\bin\Debug\BakongClearingDispute.pdb
+D:\Projects\Github_Master\channel-banking-bakong-csharp\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Projects\Github_Master\channel-banking-bakong-csharp\obj\Debug\BakongClearingDispute.csprojAssemblyReference.cache
+D:\Projects\Github_Master\channel-banking-bakong-csharp\obj\Debug\BakongClearingDispute.csproj.CoreCompileInputs.cache
+D:\Projects\Github_Master\channel-banking-bakong-csharp\obj\Debug\BakongClearingDispute.csproj.CopyComplete
+D:\Projects\Github_Master\channel-banking-bakong-csharp\obj\Debug\BakongClearingDispute.dll
+D:\Projects\Github_Master\channel-banking-bakong-csharp\obj\Debug\BakongClearingDispute.pdb

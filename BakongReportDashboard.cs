@@ -164,6 +164,41 @@ namespace BakongClearingDispute
             return dt;
         }
 
+        public DataTable _BAKONG_PG_MISMATCH_VS_GL()
+        {
+            DataTable dt = new DataTable();
+            try
+            {
+                _atmconn.P_Connstring = "HKLDB1DBRW";
+                string _CBSconn = _atmconn._getconnstring();
+                var connection = new Oracle.ManagedDataAccess.Client.OracleConnection(_CBSconn);
+                connection.Open();
+
+                Oracle.ManagedDataAccess.Client.OracleCommand cmd1 = new Oracle.ManagedDataAccess.Client.OracleCommand("HTB_PKG_BAKONG_REPORT.PR_BAKONG_NBC_MISMATCH_GL", connection);
+                cmd1.CommandType = CommandType.StoredProcedure;
+
+                cmd1.Parameters.Add("P_SDATE", OracleDbType.NVarchar2).Value = P_SDATE;
+                cmd1.Parameters.Add("P_EDATE", OracleDbType.NVarchar2).Value = P_EDATE;
+                cmd1.Parameters.Add("o_cursor", OracleDbType.RefCursor).Direction = ParameterDirection.Output;
+                Oracle.ManagedDataAccess.Client.OracleDataAdapter da1 = new Oracle.ManagedDataAccess.Client.OracleDataAdapter(cmd1);
+                //OracleDataAdapter da = new OracleDataAdapter(cmd);
+                da1.Fill(dt);
+
+            }
+            catch (Exception ex)
+            {
+                _log.logfile(ex);
+            }
+            finally
+            {
+                obj2.Close();
+                obj2.Dispose();
+                Oracle.ManagedDataAccess.Client.OracleConnection.ClearAllPools();
+            }
+            return dt;
+        }
+
+
         public DataTable _Bakong_report_list_DDL()
         {
             DataTable dt = new DataTable();

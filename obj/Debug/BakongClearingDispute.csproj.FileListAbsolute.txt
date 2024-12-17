@@ -21,3 +21,10 @@ D:\Projects\Github_Master\channel-banking-bakong-csharp\obj\Debug\BakongClearing
 D:\Projects\Github_Master\channel-banking-bakong-csharp\obj\Debug\BakongClearingDispute.csproj.CopyComplete
 D:\Projects\Github_Master\channel-banking-bakong-csharp\obj\Debug\BakongClearingDispute.dll
 D:\Projects\Github_Master\channel-banking-bakong-csharp\obj\Debug\BakongClearingDispute.pdb
+D:\Projects\Github_Master\BakongClearingDispute\bin\Debug\BakongClearingDispute.dll
+D:\Projects\Github_Master\BakongClearingDispute\bin\Debug\BakongClearingDispute.pdb
+D:\Projects\Github_Master\BakongClearingDispute\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Projects\Github_Master\BakongClearingDispute\obj\Debug\BakongClearingDispute.csproj.CoreCompileInputs.cache
+D:\Projects\Github_Master\BakongClearingDispute\obj\Debug\BakongClearingDispute.csproj.CopyComplete
+D:\Projects\Github_Master\BakongClearingDispute\obj\Debug\BakongClearingDispute.dll
+D:\Projects\Github_Master\BakongClearingDispute\obj\Debug\BakongClearingDispute.pdb
